@@ -1,0 +1,1 @@
+This is a simple Java-based daily to-do list application using Swing for the GUI. It allows users to add, remove, and clear tasks, with the ability to save tasks to a file (tasks.txt) for persistence.
